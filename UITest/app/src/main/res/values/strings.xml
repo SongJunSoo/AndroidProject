@@ -1,0 +1,13 @@
+<resources>
+    <!-- 앱 전반 사용 -->
+    <!-- 앱 이름 -->
+    <string name="app_name">신한은행 로그인</string>
+
+    <!-- 로그인 -->
+    <string name="login_title">로그인</string>
+    <string name="login_auth_name">공인인증서 로그인</string>
+    <string name="login_normal_name">이용자ID/비밀번호</string>
+    <string name="login_uid">이용자ID</string>
+    <string name="login_upw">비밀번호</string>
+    <string name="login_btn">로그인</string>
+</resources>
